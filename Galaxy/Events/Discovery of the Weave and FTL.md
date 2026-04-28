@@ -6,4 +6,4 @@ Within the next 24 hours, both patients began to show other side effects includi
 
 The gate was widened after 4 years of being open, allowing for the "weave ripper" to be transported into the weave itself. Upon opening another rip within the weave it would create a gateway for instantaneous transportation. 
 
-This discovery lead to the creation of the Weave Gates, the primary FLT travel controlled by [[Derivan Collected]]
+This discovery lead to the creation of the Weave Gates, the primary FLT travel controlled by [[Derivan Collective]]
