@@ -10,4 +10,4 @@ Magic ruined what remained of Angora after the Rupture. The southern industrial 
 
 When the Rupture Beasts began to arrive North Angora did surprisingly well. Their practice of unconventional magic paired with a rougher lifestyle and ability to live off scraps kept them alive better than most. 
 
-While North Angora remains a nation today its often seen as a failure of the inability to use magic properly, with various nation airdropping criminals into its borders as punishment. Most of North Angora is overgrown and traditional society has collapsed. Many people there life off barter while keeping an off grid lifestyle. Many of the mages within North Angora have suffered 
+While North Angora remains a nation today its often seen as a failure of the inability to use magic properly, with various nation airdropping criminals into its borders as punishment. Most of North Angora is overgrown and traditional society has collapsed. Many people there life off barter while keeping an off grid lifestyle. Many of the mages within North Angora have become Reclaimed to a point of either becoming monsters or death. 
