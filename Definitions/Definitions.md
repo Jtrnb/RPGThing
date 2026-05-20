@@ -11,3 +11,9 @@ These lines cause similar effects to earthquakes upon forming and linger to leav
 *Reclaimed, Reclamation, Reclaim*
 
 A process where use of magic reflects upon the user
+
+---
+
+# PR
+
+Post Rupture, marking the date the Faultlines began appearing
