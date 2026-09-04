@@ -1,4 +1,5 @@
 - Founded 503 PR
+Capital City: [[Anchold]]
 
 South Angora must remain.. we don't have another option.
 
