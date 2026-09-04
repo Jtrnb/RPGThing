@@ -1,0 +1,1 @@
+Export Size PNG, 4050 pixels

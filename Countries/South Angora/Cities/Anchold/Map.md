@@ -1,7 +1,7 @@
 
 ```leaflet
 id: map1
-image: [[Anchold.svg]]
+image: [[Anchold.png]]
 minZoom: 1
 maxZoom: 10
 defaultZoom: 7
