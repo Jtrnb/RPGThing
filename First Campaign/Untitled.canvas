@@ -10,6 +10,16 @@
 			"width":140,
 			"height":60,
 			"color":"4"
+		},
+		{
+			"id":"01b6379716df306e",
+			"type":"text",
+			"text":"Meet in [[Raia's Drinks]]",
+			"styleAttributes":{},
+			"x":-120,
+			"y":-120,
+			"width":260,
+			"height":60
 		}
 	],
 	"edges":[],
