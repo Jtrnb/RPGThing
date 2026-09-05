@@ -28,7 +28,7 @@
 			"text":"",
 			"styleAttributes":{},
 			"x":-160,
-			"y":40,
+			"y":20,
 			"width":260,
 			"height":60
 		}
@@ -44,6 +44,17 @@
 			"toNode":"01b6379716df306e",
 			"toSide":"top",
 			"color":"4"
+		},
+		{
+			"id":"1369faf3c05b5741",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"01b6379716df306e",
+			"fromSide":"bottom",
+			"toNode":"2d211406aa0262cb",
+			"toSide":"top",
+			"color":"2",
+			"label":"Steal Artifact from Players"
 		}
 	],
 	"metadata":{
