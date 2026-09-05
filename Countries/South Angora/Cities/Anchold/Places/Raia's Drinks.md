@@ -3,4 +3,8 @@ A more modern Pub that was originally a potion shop and alchemist depo. While th
 # Menu:
 ### Drinks:
 Acid Spit: 1 GP
-- Turns your body liquids green
+- A tangy drink that turns your body liquids green
+Sucker Punch: 3 GP
+- A heavy bready drink that requires you to pass a DC 16 CON save or become drunk
+Angoran Hive Lager: 2 SP
+- A normal slightly yeasty beer
