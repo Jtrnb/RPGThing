@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{
+			"id":"e3550dae6c86008e",
+			"type":"text",
+			"text":"Start\n",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-100,
+			"y":-360,
+			"width":140,
+			"height":60,
+			"color":"4"
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
