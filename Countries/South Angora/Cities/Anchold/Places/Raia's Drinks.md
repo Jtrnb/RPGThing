@@ -8,3 +8,9 @@ Sucker Punch: 3 GP
 - A heavy bready drink that requires you to pass a DC 16 CON save or become drunk
 Angoran Hive Lager: 2 SP
 - A normal slightly yeasty beer
+
+### Food:
+Roast Bird: 6 CP
+- 2 Large chicken or turkey legs
+The Mash: 3 CP
+- Mashed Potatoes
