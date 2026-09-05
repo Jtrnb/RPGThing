@@ -15,14 +15,37 @@
 			"id":"01b6379716df306e",
 			"type":"text",
 			"text":"Meet in [[Raia's Drinks]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-160,
+			"y":-200,
+			"width":260,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"2d211406aa0262cb",
+			"type":"text",
+			"text":"",
 			"styleAttributes":{},
-			"x":-120,
-			"y":-120,
+			"x":-160,
+			"y":40,
 			"width":260,
 			"height":60
 		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"ea20bdb0e6bbbae2",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"e3550dae6c86008e",
+			"fromSide":"bottom",
+			"toNode":"01b6379716df306e",
+			"toSide":"top",
+			"color":"4"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}
