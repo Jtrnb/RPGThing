@@ -8,3 +8,4 @@ defaultZoom: 7
 unit: meters
 scale: 1
 ```
+
