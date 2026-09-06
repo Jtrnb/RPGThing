@@ -1,1 +1,3 @@
 Group is brought together with a group of artifacts that meld together into something, everyone will face some punishment if this artifact isn't delivered to where it needs to go (motivation) 
+
+They have a collection of 
