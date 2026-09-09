@@ -1,0 +1,1 @@
+Magic comes from the planets in wells, these wells hold a lot of power and are heavily guarded and decorated. Wells appear near swells of magic where the leylines reach high., 
