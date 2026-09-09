@@ -1,0 +1,1 @@
+Berrgenfall is a small city mostly known for its industry. While it may not be the busiest city it certainly maintains its status as a keystone city near in stature as the capital. 
