@@ -10,9 +10,33 @@
 			"width":160,
 			"height":60,
 			"color":"4"
+		},
+		{
+			"id":"904788a15db44168",
+			"type":"text",
+			"text":"Meet in [[Zitrone]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-185,
+			"y":-60,
+			"width":210,
+			"height":60,
+			"color":"4"
 		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"76742028eb62cff7",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"e86e5f04021d6176",
+			"fromSide":"bottom",
+			"toNode":"904788a15db44168",
+			"toSide":"top",
+			"color":"4",
+			"label":"Session 0"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}
