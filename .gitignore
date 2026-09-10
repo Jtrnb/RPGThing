@@ -6,6 +6,8 @@
 
 .obsidian\appearance.json
 
+.obsidian\community-plugins.json
+
 
 # Exclude plugins
 .obsidian/plugins/*
