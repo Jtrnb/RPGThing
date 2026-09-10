@@ -4,6 +4,9 @@
 # OR only to exclude workspace cache
 .obsidian/workspace/*
 
+.obsidian/community-plugins.json
+
+
 # Exclude plugins
 .obsidian/plugins/*
 
