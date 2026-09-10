@@ -31,3 +31,6 @@ null*
 .DS_Store
 
 /.obsidian
+.obsidian/community-plugins.json
+.obsidian/workspace.json
+.obsidian/appearance.json
